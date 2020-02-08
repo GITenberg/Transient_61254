@@ -1,0 +1,25 @@
+_repo: Transient_61254
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harris, William
+    gutenberg_agent_id: '51318'
+    url: http://www.gutenberg.org/2009/agents/51318
+description: ''
+gutenberg_issued: '2020-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Computers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Laboratories -- Fiction'
+- GITenberg
+title: Transient
+url: http://www.gutenberg.org/ebooks/61254
